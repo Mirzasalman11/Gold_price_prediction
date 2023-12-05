@@ -31,8 +31,9 @@ This Python script predicts the price of gold based on various financial indicat
 3. Open a command prompt or terminal and navigate to the directory where the script is located.
 4. Run the script with the `--SPX`, `--USO`, `--SLV`, and `--USD` arguments followed by the corresponding financial indicators.
 
-For example:
-    `python gold_price_prediction.py --SPX 1234.56 --USO 45.67 --SLV 78.90 --USD 1.234`
+## For example:
+      ```
+      python gold_price_prediction.py --SPX 1234.56 --USO 45.67 --SLV 78.90 --USD 1.234
 
 
 Follow the instructions in the script to make predictions.
