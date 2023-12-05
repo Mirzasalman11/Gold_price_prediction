@@ -60,8 +60,9 @@ There are several ways to enhance the model and the project:
 
 ## References
 
-- Author: [Your Name]
-- Contact: [Your Email Address]
+- Author: Mirza Salman
+- Contact: salmansaluu661@gmail.com
 
 Feel free to customize this README to include any additional information you want to provide about the project.
+
 
